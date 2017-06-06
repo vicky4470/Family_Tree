@@ -1,0 +1,161 @@
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+body {
+	
+	background-image: url("images/god2.jpg");
+	background-attachment: fixed;
+	background-size: 100% auto;
+	background-color: rgba(0, 98, 179, 1);
+	font-family: "Open Sans", sans-serif
+}
+
+.imgshape {
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 5px;
+	border: 2px solid #b79c7d;
+	box-shadow: 0 3px 2px rgba(0, 0, 0, 0.3);
+}
+
+#header1 {
+	font: normal;
+	font-style: italic;
+	color: olive;
+	text-align: center;
+}
+
+#aligndivs {
+	text-align: center;
+}
+
+#headProfileContent {
+	width: 100%;
+	height: 130px;
+	margin-left: 25%;
+	margin-right: auto;
+	margin-top: 35px;
+	overflow: hidden;
+}
+
+#profileContent {
+	text-align: center;
+	padding: 200px 0 0;
+	margin: 10px;
+}
+
+#infodetails {
+	text-align: center;
+	padding-top: 6px;
+}
+
+#memInfo {
+	
+}
+
+#alignpos {
+	text-align: :center;
+}
+
+#profiles {
+	text-align: center;
+	height: 65%;
+	margin-left: 30px;
+	margin-top: 0px;
+}
+
+.blended_grid {
+	display: block;
+	width: 1024px;
+	/*overflow: auto;*/
+	margin: 30px auto 0 auto;
+}
+
+.pageHeader {
+	background-color: rgba(5, 85, 53, 0.90);
+	float: left;
+	clear: none;
+	height: 127px;
+	width: 100%;
+}
+
+#imagelocdiv {
+	padding: 35px;
+	float: left;
+}
+
+#imageloc {
+	
+}
+
+.pageLeftMenu {
+	background-color: rgba(169, 134, 109, 0.90);
+	float: left;
+	clear: none;
+	height: 600px;
+	width: 15%;
+}
+
+img {
+	
+}
+
+.pageContent {
+	background-color: #a0a0a0;
+	float: left;
+	clear: none;
+	height: 600px;
+	width: 85%;
+	opacity: 0.9;
+}
+
+#editable {
+	
+}
+
+#editprofile {
+	  background-color: #ddddff;
+    border: 1px dashed #000099;
+    height: 500px;
+    left: 558px;
+    opacity: 0.8;
+    padding-left: 10px;
+    position: absolute;
+    text-align: left;
+    top: 220px;
+    width: 500px;
+    z-index: 2;
+    display: none;
+}
+
+#subdiv {
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+	float: left;
+	margin-left: 0%;
+	width: 25%;
+}
+
+#subdiv2 {
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+	float: left;
+	margin-left: 0%;
+	width: 20%;
+	margin-top: 20px;
+}
+
+.pageFooter {
+	background-color: rgba(58, 94, 72, 1.00);
+	float: left;
+	clear: none;
+	height: 100px;
+	width: 100%;
+}
+
+#imgpos {
+	text-align: center;
+}

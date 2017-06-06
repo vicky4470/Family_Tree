@@ -1,0 +1,110 @@
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+body {
+	background-image: url('bi-background-hexagon.png');
+	background-attachment: fixed;
+	background-size: 100% auto;
+	background-color: rgba(0, 98, 179, 1);
+}
+#imgpos {
+	text-align: center;
+	
+}
+#header1 {
+	font: normal;
+	font-style: italic;
+	color: olive;
+	text-align: center;
+}
+
+#headProfileContent {
+	width: 100%;
+    height: 130px;
+    margin-left: 25%;
+    margin-right: auto;
+    margin-top: 10%;
+    
+    overflow: hidden;
+}
+
+#profileContent {
+	text-align: center;
+	padding: 200px 0 0;
+	margin: 10px;
+}
+#infodetails{
+	text-align: center;
+}
+#memInfo {
+	
+}
+#alignpos{
+	text-align: :center;
+}
+#profiles{
+	text-align: center;
+	height: 65%;
+	margin-left: 30px;
+    margin-top: 50px;
+}
+.blended_grid {
+	display: block;
+	width: 1024px;
+	overflow: auto;
+	margin: 30px auto 0 auto;
+}
+
+.pageHeader {
+	background-color: rgba(5, 85, 53, 0.90);
+	float: left;
+	clear: none;
+	height: 122px;
+	width: 900px;
+}
+#imagelocdiv{
+	padding:35px;
+	float:left;
+}
+#imageloc{
+	
+}
+.pageLeftMenu {
+	background-color: rgba(169, 134, 109, 0.90);
+	float: left;
+	clear: none;
+	height: 600px;
+	width: 200px;
+}
+
+.pageContent {
+	background-color: rgba(109, 111, 106, 1);
+	float: left;
+	clear: none;
+	height: 600px;
+	width: 700px;
+}
+#subdiv{
+	border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    float: left;
+    margin-left: 0%;
+    width: 25%;
+}
+#subdiv2{
+	border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    float: left;
+    margin-left: 0%;
+    width:30%;
+}
+.pageFooter {
+	background-color: rgba(58, 94, 72, 1.00);
+	float: left;
+	clear: none;
+	height: 100px;
+	width: 900px;
+}
